@@ -1,0 +1,12 @@
+# Site settings
+title: Andrew Merrell
+description: I work in technology. Not your typical geek. Love a superhero movie. Can always be heard laughing.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.andrewmerrell.co.uk" # the base hostname & protocol for your site
+twitter_username: andrewmerrell
+github_username:  andrewmerrell
+
+# Build settings
+markdown: kramdown
+
+permalink: /:title/
